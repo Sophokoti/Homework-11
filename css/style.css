@@ -1,0 +1,26 @@
+
+.logo {font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    color: #5863F8;
+    margin-top: 54px;
+    margin-left: 129px;}
+
+.header-text {font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    width: 378px;
+    margin-left: 129px;
+    }
+
+    /*section-1*/
+
+.section-1 {}
+.container {display: flex;}
+.left-block {max-width: 720px;
+    width: 100%;
+    height: 288px;}
+.right-block {}
+
+.description {max-width: 720px;
+    width: 100%;
+    height: 288px;
+}
